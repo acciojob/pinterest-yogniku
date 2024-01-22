@@ -3,25 +3,16 @@
 	display:flex; 
 	justify-content:space between;
 	align-items:center;
+	gap:2%;
 }
-.src{
+img{
 object-fit: cover;
-	width:50px;
-	height:25px;
+	width:500
+	
 }
 #bt{
-	padding:15px 32px;
+	padding:5px 12px;
 	background-color:red;
 	color:white;
 	border-radius:2px;
 }
-.hero-content h1 {
-      font-size: 3rem;
-      margin-bottom: 16px;
-
-    }
-
-    .hero-content p {
-      font-size: 1.5rem;
-      margin-bottom: 24px;
-    }
